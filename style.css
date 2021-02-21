@@ -1,0 +1,13 @@
+
+.btn-socials {
+    border-radius: 15px;
+    opacity: .8;
+}
+
+.btn-socials:hover {
+    opacity: 1;
+}
+
+.bg-brown {
+    background-color: rgb(179, 134, 67);
+}
